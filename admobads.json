@@ -5,9 +5,10 @@
         "interstitial_id": "ca-app-pub-6088367933724448/2377786403",
         "open_id": "ca-app-pub-6088367933724448/4547769697"
     },
-    "quizfooddrink1": {
+    "business": {
         "banner_id": "ca-app-pub-3940256099942544/6300978111",
-        "interstitial_id": "ca-app-pub-3940256099942544/1033173712"
+        "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+        "open_id": "ca-app-pub-3940256099942544/3419835294"
     }
 
 }
